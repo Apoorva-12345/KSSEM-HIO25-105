@@ -1,0 +1,7 @@
+{
+  "name": "LearnMate",
+  "description": "An AI-powered virtual tutor that provides personalized learning experiences. It can answer questions, explain topics, generate quizzes and summaries, and adapt to the user's learning pace.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
